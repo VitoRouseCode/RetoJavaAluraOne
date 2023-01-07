@@ -60,5 +60,5 @@
 
 ## Autor
 
-<img src="https://avatars.githubusercontent.com/u/108899625?s=400&u=d7b1b23e9e8d0aae62fbe0991e1912a707ac3c5a&v=4" width=130><br><sub>Camila Fernanda Alves</sub>
+<img src="https://avatars.githubusercontent.com/u/108899625?s=400&u=d7b1b23e9e8d0aae62fbe0991e1912a707ac3c5a&v=4" width=130><br><sub>Victor Sierra</sub>
 
