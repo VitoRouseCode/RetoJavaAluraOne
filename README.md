@@ -3,6 +3,13 @@
 <br></br>
 <br>![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)</br>
 <h1 align="center"> Conversor de monedas y temperatura -Reto Alura One - Java </h1>
+<br>
+<br>
+<br>
+## :hammer:Funcionalidades del proyecto
+<br>
+<br>
+<br>
 <p>Programa para convertir monedas y temperatura. Ahora soporta cambio de pesos colombianos a dolares y a euros y viceversa</p>
 
 
@@ -49,3 +56,9 @@
 
 
 ![Image text](https://github.com/VitoRouseCode/RetoJavaAluraOne/blob/main/img/image/11.png)
+
+
+## Autor
+
+<img src="https://avatars.githubusercontent.com/u/108899625?s=400&u=d7b1b23e9e8d0aae62fbe0991e1912a707ac3c5a&v=4" width=130><br><sub>Camila Fernanda Alves</sub>
+
